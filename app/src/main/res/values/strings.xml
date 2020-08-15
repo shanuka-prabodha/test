@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Vehical Handling</string>
+    <string name="Add_Vehical">Add Vehical </string>
+    <string name="vehical_id">Vehical ID</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="passengers">Passengers</string>
+    <string name="Transmission">Transmission</string>
+    <string name="day_price">Day Price</string>
+    <string name="btn_add">Add </string>
+    <string name="btn_upload">Upload Image</string>
+    <string name="update">Update Vehical</string>
+    <string name="btn_update">Update</string>
+
+
+    <string-array name="transmission">Select Transmission
+
+        <item>Automatic</item>
+        <item>Manual</item>
+    </string-array>
+
+
+    <string-array name="programming_languages">
+
+        <item>c++</item>
+        <item>c#</item>
+        <item>java</item>
+        <item>javascript</item>
+        <item>kotlin</item>
+        <item>python</item>
+        <item>Ruby</item>
+
+
+    </string-array>
+
+    <string-array name="description">
+        <item>this is random description</item>
+        <item>this is random description</item>
+        <item>this is random description</item>
+        <item>this is random description</item>
+        <item>this is random description</item>
+        <item>this is random description</item>
+        <item>this is random description</item>
+
+
+    </string-array>
+
+</resources>
